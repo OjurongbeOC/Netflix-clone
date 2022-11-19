@@ -153,7 +153,7 @@
 		aside .mailly{
 			width: 500px;
 		}
-		@media only screen and (max-width: 480px){
+		
 			header{
 				padding: 20px 5%;
 			}
@@ -226,7 +226,7 @@
 		aside .mailly{
 			width: 95%;
 		}
-	}
+	
 @media (min-width: 481px) and (max-width: 977px){
 		.firstdiv> div{
 			width: 480px;
